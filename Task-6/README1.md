@@ -18,7 +18,7 @@
 1. If sum==x is true then **The given number is an armstrong number**.
 2. If sum==x is false then **The given number is not an armstrong number**.)
 
-![FLOWCHART](armstrongnumber.png)
+![mainbranch](main.png)
 
 
 
